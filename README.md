@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `Lance`
+- **Full Name:** `Lance Quinto`
 - **CCID:** `ciquinto`
 
 ## References and Resources
