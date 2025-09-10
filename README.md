@@ -7,11 +7,14 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+* https://stackoverflow.com/questions/16189651/android-listview-selected-item-stay-highlighted
+* https://stackoverflow.com/questions/8698687/android-layout-width-layout-height-how-it-works
+* https://developer.android.com/develop/ui/views/components/button#java
+* https://developer.android.com/reference/android/widget/EditText
+* https://developer.android.com/reference/android/widget/TextView#attr_android:inputType
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Emily Lan`    | `zlan4` |
